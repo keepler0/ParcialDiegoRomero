@@ -1,0 +1,11 @@
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Consola.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Consola.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.Entidades.dll
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.Entidades.pdb
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Consola.csproj.CopyComplete
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

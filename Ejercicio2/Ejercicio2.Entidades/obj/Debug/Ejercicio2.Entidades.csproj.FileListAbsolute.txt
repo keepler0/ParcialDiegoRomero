@@ -1,0 +1,6 @@
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio2.Consola\Ejercicio2.Entidades\bin\Debug\Ejercicio2.Entidades.dll
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio2.Consola\Ejercicio2.Entidades\bin\Debug\Ejercicio2.Entidades.pdb
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio2.Consola\Ejercicio2.Entidades\obj\Debug\Ejercicio2.Entidades.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio2.Consola\Ejercicio2.Entidades\obj\Debug\Ejercicio2.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio2.Consola\Ejercicio2.Entidades\obj\Debug\Ejercicio2.Entidades.dll
+C:\Users\diego\Desktop\ParcialPOODiegoRomero\Ejercicio2.Consola\Ejercicio2.Entidades\obj\Debug\Ejercicio2.Entidades.pdb
